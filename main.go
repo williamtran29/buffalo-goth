@@ -1,6 +1,6 @@
 package main
 
-import "github.com/gobuffalo/buffalo-goth/cmd"
+import "github.com/williamtran29/buffalo-goth/cmd"
 
 func main() {
 	cmd.Execute()
